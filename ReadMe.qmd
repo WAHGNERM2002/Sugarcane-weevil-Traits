@@ -1,20 +1,31 @@
-**Identification of Metamasius hemipterus (Coleoptera: Dryophthoridae) and its biological   control through the use of species of the genus Beauveria and Metarhizium. Amazonas, Peru**
+# Identification of Metamasius hemipterus (Coleoptera: Dryophthoridae) and its biological control through the use of species of the genus Beauveria and Metarhizium. Amazonas, Peru
 
-Author List:<br>
-Santos Leiva-Espinoza<sup>1,3*</sup>; Alcides Román<sup>2</sup>; Vilma Aguilar<sup>3</sup>;<br>
-Elizabeth Requejo<sup>1</sup>; Wagner Meza-Maicelo<sup>3</sup>; Duber Banda-Martinez<sup>4</sup>;<br>
-Ángel Huaman<sup>3</sup>; Fredy Loyola<sup>4</sup>; Melissa Loja<sup>3</sup>;<br>
-Manuel Oliva<sup>3</sup>; Jorge Maicelo-Quintana<sup>5</sup>
+**Author List:**  
+Santos Leiva-Espinoza 1,3*; Alcides Román 2; Vilma Aguilar 3;  
+Elizabeth Requejo 1; Wagner Meza-Maicelo 3; Duber Banda-Martinez 4;  
+Ángel Huaman 3; Fredy Loyola 4; Melissa Loja 3;  
+Manuel Oliva 3; Jorge Maicelo-Quintana 5
+
+---
+
+## Affiliations
+
+1 Universidad Nacional Toribio Rodríguez de Mendoza de Amazonas, Perú  
+2 Otra institución, País  
+3 Otra institución, País  
+4 Otra institución, País  
+5 Otra institución, País
 
 ---
 
 ## Database
 
-> Google Sheets link: https://docs.google.com/spreadsheets/d/1h41hOHDDX6w93zpl9lnH8WYZk4qamB4Xh0yejPjc9Ug/edit?usp=sharing 
+Google Sheets link: https://docs.google.com/spreadsheets/d/1h41hOHDDX6w93zpl9lnH8WYZk4qamB4Xh0yejPjc9Ug/edit?usp=sharing 
 
 ---
 
 # SciHub: research pipeline repository
+
 
 project-root/
   ├── analysis.qmd          # Script with data analysis (R/Python)
