@@ -1,7 +1,11 @@
 **Identification of Metamasius hemipterus (Coleoptera: Dryophthoridae) and its biological   control through the use of species of the genus Beauveria and Metarhizium. Amazonas, Peru**
 
-Author List
-Santos Leiva-Espinoza^1,3*; Alcides Román^2; Vilma Aguilar^3; Elizabeth Requejo^1; Wagner Meza-Maicelo^3; Duber Banda-Martinez^4; Ángel Huaman^3; Fredy Loyola^4; Melissa Loja^3; Manuel Oliva^3; Jorge Maicelo-Quintana^5
+Author List:<br>
+Santos Leiva-Espinoza<sup>1,3*</sup>; Alcides Román<sup>2</sup>; Vilma Aguilar<sup>3</sup>;<br>
+Elizabeth Requejo<sup>1</sup>; Wagner Meza-Maicelo<sup>3</sup>; Duber Banda-Martinez<sup>4</sup>;<br>
+Ángel Huaman<sup>3</sup>; Fredy Loyola<sup>4</sup>; Melissa Loja<sup>3</sup>;<br>
+Manuel Oliva<sup>3</sup>; Jorge Maicelo-Quintana<sup>5</sup>
+
 ---
 
 ## Database
